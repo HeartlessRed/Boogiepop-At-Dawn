@@ -1,0 +1,17 @@
+{
+   "title":"Boogiepop at Dawn",
+   "description":"In this long-awaited prequel to the famed Boogiepop Phantom anime series, uncover the secrets of Boogiepop's past and see how it all started. Follow this dark tale of four very strange individuals who cross paths with the phantasmal crime fighter known as Boogiepop—a detective, an eater of fear, a pulp writer, and a skilled assassin. It all begins here!",
+   "artist":"Kawabata Yoshihiro",
+   "author":"Kadono Kouhei",
+   "cover":"https://i.imgur.com/JW2rN1Y.png",
+   "chapters":{
+      "1":{
+         "title":"Chapter 1",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/d29UGiD/"
+         },
+         "last_updated":"1660976576"
+      }
+   }
+}
