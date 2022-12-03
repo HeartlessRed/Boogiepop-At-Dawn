@@ -12,6 +12,14 @@
             "Tokumei":"/proxy/api/imgur/chapter/d29UGiD/"
          },
          "last_updated":"1660976576"
+      },
+      "2":{
+         "title":"Chapter 2",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/0K122MF/"
+         },
+         "last_updated":"1660976576"
       }
    }
 }
