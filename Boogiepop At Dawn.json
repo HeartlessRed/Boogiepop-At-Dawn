@@ -44,7 +44,14 @@
             "Tokumei":"/proxy/api/imgur/chapter/ke9Pc5X/"
          },
          "last_updated":"1635702509"
+	   },
+	   "5.5":{
+         "title":"Bonus",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/Q1eIfBu/"
+         },
+         "last_updated":"1635702509"
       }
    }
 }
-
