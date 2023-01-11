@@ -84,6 +84,14 @@
             "Tokumei":"/proxy/api/imgur/chapter/VgECW9w/"
          },
          "last_updated":"1635702509"
+	   },
+	   "10":{
+         "title":"Chapter 10",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/zW2LW3t/"
+         },
+         "last_updated":"1635702509"
       }
    }
 }
